@@ -27,7 +27,3 @@ We welcome contributions to enhance the functionality and usability of the Tempe
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Font Awesome](https://fontawesome.com/) for the icons used in the project.
